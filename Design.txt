@@ -1,0 +1,2 @@
+Design - Criação de um site onde é feito a propaganda e explicação da utilização do aplicativo e seus beneficios, criação de botões onde se clicado ira para uma pagina de download do aplicativo.
+O aplicativo terá icones onde poderá colocar o endereço, escolher qual rota fazer, agendar corridas, escolher formas de pagamento, se será transporte apenas de objetos, chat, transporte emergencial para o hospital mais próximo..

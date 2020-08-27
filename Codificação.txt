@@ -1,0 +1,1 @@
+Codificação - Necessário para criaçaõ de página web, software Visual Code utilizando as linguagens HTML,CSS e Node JS para criação do Front-end e Back-end, para o aplicativo mobile seriam feitas nas plataformas Android com linguagem JAVA e IOS com a linguagem Swift.

@@ -1,0 +1,1 @@
+Teste - Após codificação do projeto/produto, ele será mostrado em reunião com todas as partes do processo onde serão discutidos melhorias na interface e análise de possiveis falhas. Após essa etapa todos utilizarão o aplicativo em versão de teste e só depois será liberado no site a divulgação do produto.
